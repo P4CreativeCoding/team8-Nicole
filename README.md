@@ -20,7 +20,7 @@ IMD SS SS23 - h_da
 4. Den Code über die ArduinoIDE auf den Arduino Uno R3 aufspielen
 5. Die oben beschriebenen Komponenten wie im folgenden Fritzing gezeigt verbinden
 
-[P4_SS23 Fritzing-Perio_Pehr.pdf](https://github.com/P4CreativeCoding/team8-Nicole/files/11962202/P4_SS23.Fritzing-Perio_Pehr.pdf)
+<img src="./P4_SS23 Fritzing-Perio_Pehr.png" width="600px"/>
 
 Um das Periodentracking zu simulieren, wird eine RFID Gerät inklusive Chip verwendet (rechts im Bild). Diese repräsentiert den Writer. Auf dieser sind ebenfalls eine LED, ein Vibrationsmotor sowie drei 220 Ohm Widerstände angeschlossen. Um die Berührung zu messen müssen die zwei Ende des orangenen und des grünen Jumper-Wire berührt werden. Wurde die Berührung erfolgreich gemessen vibriert der Vibrationsmotor kurz um so die Messung zu bestätigen. Um über die Messung ein direktes Feedback über die gemessenen Daten zu bekommen werden LEDs verwendet. Diese leuchtet bei Berührung ebenfalls auf.
 
